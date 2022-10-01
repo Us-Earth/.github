@@ -17,7 +17,7 @@
 |박민규|Spring / BE|[GitHub](https://github.com/Minkyu222341)|1. CI/CD 및 무중단배포 </br> 2. 웹페이지 크롤링 </br>3. Slack연동 <br/>4. 토큰저장 및 재발급(Redis)|
 |김원호(부팀장)|React / FE|[GitHub](https://github.com/loveyoujgb)|1. 소셜로그인 </br>2. 커뮤니티 리스트/상세보기/참여하기</br> 3. 소식지 페이지</br> 4. 내정보 오늘의미션/설정/그룹미션|
 |김미리|React / FE|[GitHub](https://github.com/woonhk90/us-earth_fe)|1. 커뮤니티, 인증글, 댓글 CRUD </br>2. 마이페이지 주간통계, 월간통계</br> 3. 정보제공 환경지수 차트|
-|조예린|Designer|[포트폴리오](http://kkyy0406.cafe24.com/styling.html)|s|
+|조예린|Designer|[포트폴리오](http://kkyy0406.cafe24.com/styling.html)|1. 와이어프레임 제작 </br>2. UI/UX 디자인</br> 3. 그래픽 디자인|
 
 # Architecture
 ![UsEarth아키텍처](https://user-images.githubusercontent.com/108817236/193409607-020133eb-0686-462b-8e87-ee643a1deb13.png)
