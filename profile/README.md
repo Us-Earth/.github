@@ -1,3 +1,5 @@
+![Us-Earth](https://user-images.githubusercontent.com/99243066/194052653-ff4166a6-cd22-468a-8edc-6fcadd992c0d.png)
+<br>
 # 링크
 * [Us-Earth 사이트](https://usearth.co.kr)
 * [BE 깃허브 주소](https://github.com/Us-Earth/UsEarth.git)
