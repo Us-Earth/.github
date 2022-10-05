@@ -8,8 +8,9 @@
 # UsEarth
   * Us-Earth는 매일 바뀌는 환경미션을 완수하고 캐릭터(나무)를 성장시키는 환경지킴 서비스입니다. 
   * 커뮤니티를 통해 함께 환경 캠페인에 도전할 사람을 모으고, 환경 관련 소식도 받아볼 수 있습니다.
-
-  
+# 프로젝트 기간
+ * 2022년 08월 26일 ~ 2022년 10월 06일
+ * 배포일 : 2022년 09월 29일
 # 팀원
 |이름|포지션|깃허브 Or 블로그|담당 역할|
 |:-----:|:---:|:---:|:---|
@@ -42,3 +43,9 @@
 
 # Architecture
 ![UsEarth아키텍처](https://user-images.githubusercontent.com/108817236/193409607-020133eb-0686-462b-8e87-ee643a1deb13.png)
+
+# 유저피드백
+
+![image](https://user-images.githubusercontent.com/108817236/194042261-38bfe0c1-24c2-4d36-99f6-150f5d62d6c8.png)
+
+![image](https://user-images.githubusercontent.com/108817236/194042384-6fddfa37-2591-4de1-adb5-f0173270e4ee.png)
