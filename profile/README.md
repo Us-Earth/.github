@@ -44,7 +44,7 @@
 # Architecture
 ![UsEarth아키텍처](https://user-images.githubusercontent.com/108817236/193409607-020133eb-0686-462b-8e87-ee643a1deb13.png)
 
-# 유저피드백
+# 유저피드백 및 개선사항
 
 ![image](https://user-images.githubusercontent.com/108817236/194042261-38bfe0c1-24c2-4d36-99f6-150f5d62d6c8.png)
 
