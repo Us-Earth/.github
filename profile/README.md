@@ -42,7 +42,7 @@
     ![내정보페이지](https://user-images.githubusercontent.com/107628613/194065947-edbd773b-d2a7-40d7-9520-69afc964d7c5.png)
 - 내가 이룬 일일 미션의 주간, 월간통계
     - 완수한 미션을 주간, 월간 통계로 모아볼 수 있습니다.
-    ![월간_주간통계](https://user-images.githubusercontent.com/107628613/194065958-8689190d-b614-43aa-9417-557aacbcca0d.png)
+![월간_주간통계](https://user-images.githubusercontent.com/107628613/194065958-8689190d-b614-43aa-9417-557aacbcca0d.png)
     
 - 함께 키우는 숲(그룹 페이지)
     - 커뮤니티 페이지에서 커스텀한 그룹 캠페인을 제시하고 다른 사람들과 함께 진행할 수 있습니다.
@@ -53,7 +53,8 @@
 - 기타 페이지
     - 닉네임 수정, 프로필 수정이 가능합니다.
     - 자신이 가입한 그룹의 상태와 자신이 작성한 그룹을 확인할 수 있습니다.
-![닉네임프로필수정](https://user-images.githubusercontent.com/107628613/194065952-18b4df07-ead3-4b46-98af-50362dbe0baf.png) ![내정보그룹미션](https://user-images.githubusercontent.com/107628613/194065942-35d8b6de-8c5c-4ec9-a3bd-9a05c55e5dc3.png)
+![기타페이지](https://user-images.githubusercontent.com/107628613/194067985-7e9ad038-da1a-4ebf-8d71-314ecd609c35.png)
+
 # Architecture
 ![UsEarth아키텍처](https://user-images.githubusercontent.com/108817236/193409607-020133eb-0686-462b-8e87-ee643a1deb13.png)
 
