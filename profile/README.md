@@ -4,7 +4,7 @@
 * [Us-Earth 사이트](https://usearth.co.kr)
 * [BE 깃허브 주소](https://github.com/Us-Earth/UsEarth.git)
 * [FE 깃허브 주소](https://github.com/Us-Earth/us-earth_fe.git)
-* [소개영상](https://www.youtube.com/watch?v=6h10HWaQW3w&feature=youtu.be)
+* [소개영상](https://youtu.be/cB17NoXBuds)
 * [노션 링크](https://www.notion.so/2fb82bcd1947457893f68acaee850f55)
 
 # UsEarth
