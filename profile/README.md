@@ -58,6 +58,74 @@
 # Architecture
 ![UsEarth아키텍처](https://user-images.githubusercontent.com/108817236/193409607-020133eb-0686-462b-8e87-ee643a1deb13.png)
 
+# Tools
+<details>
+ <summary>[ FE ]</summary>
+ <p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000000">
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=white">
+  <br/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
+  <img src="https://img.shields.io/badge/React Router-CA4245?style=for-the-badge&logo=React Router&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styled components&logoColor=ffffff">
+  <br/>
+  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=Yarn&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=ffffff">
+  <br/>
+  <img src="https://img.shields.io/badge/Naver Login-03C75A?style=for-the-badge&logo=Naver&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/Google Login-4285F4?style=for-the-badge&logo=Google&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/Kakao Login-FFCD00?style=for-the-badge&logo=Kakao&logoColor=000000">
+</p>
+ </details>
+ 
+<details>
+ <summary>[ BE ]</summary>
+ <p>
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"> 
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/querydsl -F8DC75?style=for-the-badge&logo=querydsl&logoColor=white">
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/codedeploy -569A31?style=for-the-badge&logo=codedeploy&logoColor=white">
+  <img src="https://img.shields.io/badge/AmazonS3 -569A31?style=for-the-badge&logo=AmazonS3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/githubactions -2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+  <img src="https://img.shields.io/badge/postman -FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/nginx -009639?style=for-the-badge&logo=nginx&logoColor=white">
+  <img src="https://img.shields.io/badge/slack -4A154B?style=for-the-badge&logo=slack&logoColor=white">
+  <img src="https://img.shields.io/badge/redis -DC382D?style=for-the-badge&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/Selenium -43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
+  <img src="https://img.shields.io/badge/jwt -000000?style=for-the-badge&logo=jwt&logoColor=white">
+ </p>
+</details>
+
+# 트러블슈팅
+ <details>
+  <summary>[ FE ]</summary>
+  1. [달력 라이브러리 이슈](https://github.com/Us-Earth/us-earth_fe/wiki/%EB%8B%AC%EB%A0%A5-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EC%9D%B4%EC%8A%88)
+  2. [모바일 스크롤 이슈](https://github.com/Us-Earth/us-earth_fe/wiki/%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%8A%A4%ED%81%AC%EB%A1%A4-%EC%9D%B4%EC%8A%88)
+  3. [이미지 업로드 이슈](https://github.com/Us-Earth/us-earth_fe/wiki/%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%85%EB%A1%9C%EB%93%9C-%EC%9D%B4%EC%8A%88)
+ </details>
+ <details>
+  <summary>[ BE ]</summary>
+  1. [CI/CD(지속적 통합 지속적 제공)-WIKI이동](https://github.com/Minkyu222341/UsEarth/wiki/CI-CD-(-%EC%A7%80%EC%86%8D%EC%A0%81-%ED%86%B5%ED%95%A9-%EC%A7%80%EC%86%8D%EC%A0%81-%EC%A0%9C%EA%B3%B5-))
+  2. [웹페이지 크롤링-WIKI이동](https://github.com/Us-Earth/UsEarth/wiki/Selenium-%ED%81%AC%EB%A1%A4%EB%A7%81)
+  3. [Slack Webook-WIKI이동](https://github.com/Us-Earth/UsEarth/wiki/Slack-WebWook---%EC%97%90%EB%9F%AC%EB%A1%9C%EA%B7%B8)
+  4. [QueryDsl 도입-WIKI이동](https://github.com/pnci1029/hanghae_8D_BE/wiki/QueryDSL-%EC%A0%81%EC%9A%A9)
+  5. [대기질 API 스케줄러 미작동-WIKI이동](https://github.com/Us-Earth/UsEarth-BE/wiki/%EB%8C%80%EA%B8%B0%EC%A7%88-API-%EC%8A%A4%EC%BC%80%EC%A4%84%EB%9F%AC-%EB%AF%B8%EC%9E%91%EB%8F%99-%EB%AC%B8%EC%A0%9C)
+  6. [비속어 필터 메서드 실행속도-WIKI이동](https://github.com/Us-Earth/UsEarth-BE/wiki/%EB%B9%84%EC%86%8D%EC%96%B4-%ED%95%84%ED%84%B0-%EB%A9%94%EC%84%9C%EB%93%9C-%EC%8B%A4%ED%96%89%EC%86%8D%EB%8F%84-%EB%AC%B8%EC%A0%9C)
+  7. [MySQL 8.0.20 LocalDate 타입 데이터 하루 전으로 들어가는 문제-WIKI이동](https://github.com/Us-Earth/UsEarth-BE/wiki/MySQL-8.2.0-LocalDate-%ED%83%80%EC%9E%85-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%95%98%EB%A3%A8-%EC%A0%84%EC%9C%BC%EB%A1%9C-%EB%93%A4%EC%96%B4%EA%B0%80%EB%8A%94-%EB%AC%B8%EC%A0%9C)
+  8. [이미지 리사이징-WIKI이동](https://github.com/Us-Earth/UsEarth-BE/wiki/%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%A6%AC%EC%82%AC%EC%9D%B4%EC%A7%95)
+ </details>
+
 # 유저평가 및 피드백
 ![image](https://user-images.githubusercontent.com/108817236/194044368-fe1ec4f0-c8f5-4d38-aff2-1e4c7d3368d4.png)
 ![image](https://user-images.githubusercontent.com/108817236/194044803-009e16a8-0514-409e-ab61-09f80e6f5c0a.png)
