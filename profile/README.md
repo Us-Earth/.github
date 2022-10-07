@@ -42,7 +42,7 @@
     ![내정보페이지](https://user-images.githubusercontent.com/107628613/194065947-edbd773b-d2a7-40d7-9520-69afc964d7c5.png)
 - 내가 이룬 일일 미션의 주간, 월간통계
     - 완수한 미션을 주간, 월간 통계로 모아볼 수 있습니다.
-  ![월간_주간통계](https://user-images.githubusercontent.com/107628613/194065958-8689190d-b614-43aa-9417-557aacbcca0d.png) 
+![월간_주간통계](https://user-images.githubusercontent.com/107628613/194065958-8689190d-b614-43aa-9417-557aacbcca0d.png) 
 - 함께 키우는 숲(그룹 페이지)
     - 커뮤니티 페이지에서 커스텀한 그룹 캠페인을 제시하고 다른 사람들과 함께 진행할 수 있습니다.
     - 그룹 캠페인 진행기간 동안 인증글을 올리며 서로 좋아요, 댓글을 통해 소통할 수 있습니다.
@@ -61,6 +61,7 @@
 # Tools
 <details>
  <summary>[ FE ]</summary>
+ 
  <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=ffffff">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=ffffff">
@@ -85,6 +86,7 @@
  
 <details>
  <summary>[ BE ]</summary>
+ 
  <p>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
@@ -110,12 +112,15 @@
 # 트러블슈팅
  <details>
   <summary>[ FE ]</summary>
+ 
   1. [달력 라이브러리 이슈](https://github.com/Us-Earth/us-earth_fe/wiki/%EB%8B%AC%EB%A0%A5-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EC%9D%B4%EC%8A%88)
   2. [모바일 스크롤 이슈](https://github.com/Us-Earth/us-earth_fe/wiki/%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%8A%A4%ED%81%AC%EB%A1%A4-%EC%9D%B4%EC%8A%88)
   3. [이미지 업로드 이슈](https://github.com/Us-Earth/us-earth_fe/wiki/%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%85%EB%A1%9C%EB%93%9C-%EC%9D%B4%EC%8A%88)
  </details>
+ 
  <details>
   <summary>[ BE ]</summary>
+ 
   1. [CI/CD(지속적 통합 지속적 제공)-WIKI이동](https://github.com/Minkyu222341/UsEarth/wiki/CI-CD-(-%EC%A7%80%EC%86%8D%EC%A0%81-%ED%86%B5%ED%95%A9-%EC%A7%80%EC%86%8D%EC%A0%81-%EC%A0%9C%EA%B3%B5-))
   2. [웹페이지 크롤링-WIKI이동](https://github.com/Us-Earth/UsEarth/wiki/Selenium-%ED%81%AC%EB%A1%A4%EB%A7%81)
   3. [Slack Webook-WIKI이동](https://github.com/Us-Earth/UsEarth/wiki/Slack-WebWook---%EC%97%90%EB%9F%AC%EB%A1%9C%EA%B7%B8)
